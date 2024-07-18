@@ -150,8 +150,8 @@ _For more examples, please refer to the [Documentation](https://github.com/aymnm
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] MVP
-- [ ] Create ios shortcut to use it
+- [x] MVP
+- [x] Create ios shortcut to use it
 - [ ] Search a similar solution for android
 - [ ] Improve the project ^^
 
