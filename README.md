@@ -22,14 +22,13 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/aymnms/cocobot">
+  <a href="https://github.com/aymnms/cocobot-back">
     <img src="images/cocobot.jpg" alt="Logo" width="105" height="120">
   </a>
 
@@ -38,14 +37,14 @@
   <p align="center">
     Api of jokes between friends
     <br />
-    <a href="https://github.com/aymnms/cocobot/wiki"><strong>Explore the docs</strong></a>
+    <a href="https://github.com/aymnms/cocobot-back/wiki"><strong>Explore the docs</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aymnms/cocobot">🔜 <strike>View Demo</strike></a>
+    <a href="https://github.com/aymnms/cocobot-front">Cocobot front</a>
     ·
-    <a href="https://github.com/aymnms/cocobot/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/aymnms/cocobot-back/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/aymnms/cocobot/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/aymnms/cocobot-back/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -104,7 +103,7 @@ You need to install Python and pip
 
 1. Clone the repo
    ```sh
-   $ git clone https://github.com/aymnms/cocobot.git
+   $ git clone https://github.com/aymnms/cocobot-back.git
    ```
 2. Install Pip libraries
    ```sh
@@ -141,7 +140,7 @@ Then, you can call the api like that
 $ curl http://127.0.0.1:5000/joke
 ```
 
-_For more examples, please refer to the [Documentation](https://github.com/aymnms/cocobot/wiki)_
+_For more examples, please refer to the [Documentation](https://github.com/aymnms/cocobot-back/wiki)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,23 +154,23 @@ _For more examples, please refer to the [Documentation](https://github.com/aymnm
 - [ ] Search a similar solution for android
 - [ ] Improve the project ^^
 
-See the [open issues](https://github.com/aymnms/cocobot/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/aymnms/cocobot-back/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/aymnms/cocobot.svg?style=for-the-badge
-[contributors-url]: https://github.com/aymnms/cocobot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/aymnms/cocobot.svg?style=for-the-badge
-[forks-url]: https://github.com/aymnms/cocobot/network/members
-[stars-shield]: https://img.shields.io/github/stars/aymnms/cocobot.svg?style=for-the-badge
-[stars-url]: https://github.com/aymnms/cocobot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/aymnms/cocobot.svg?style=for-the-badge
-[issues-url]: https://github.com/aymnms/cocobot/issues
-[license-shield]: https://img.shields.io/github/license/aymnms/cocobot.svg?style=for-the-badge
-[license-url]: https://github.com/aymnms/cocobot/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/aymnms/cocobot-back.svg?style=for-the-badge
+[contributors-url]: https://github.com/aymnms/cocobot-back/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/aymnms/cocobot-back.svg?style=for-the-badge
+[forks-url]: https://github.com/aymnms/cocobot-back/network/members
+[stars-shield]: https://img.shields.io/github/stars/aymnms/cocobot-back.svg?style=for-the-badge
+[stars-url]: https://github.com/aymnms/cocobot-back/stargazers
+[issues-shield]: https://img.shields.io/github/issues/aymnms/cocobot-back.svg?style=for-the-badge
+[issues-url]: https://github.com/aymnms/cocobot-back/issues
+[license-shield]: https://img.shields.io/github/license/aymnms/cocobot-back.svg?style=for-the-badge
+[license-url]: https://github.com/aymnms/cocobot-back/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
